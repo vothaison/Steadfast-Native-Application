@@ -1,0 +1,7 @@
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\bin\Debug\NativeMessagingCaller.exe.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\bin\Debug\NativeMessagingCaller.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\bin\Debug\NativeMessagingCaller.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\obj\Debug\NativeMessagingCaller.csprojAssemblyReference.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\obj\Debug\NativeMessagingCaller.csproj.CoreCompileInputs.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\obj\Debug\NativeMessagingCaller.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\NativeMessagingCaller\obj\Debug\NativeMessagingCaller.pdb

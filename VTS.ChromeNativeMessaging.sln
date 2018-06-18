@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTS.ChromeNativeMessaging", "VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging.csproj", "{24EF8DC7-1460-4771-9870-0BBF5B5BD754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTS.UnitTestProject", "VTS.UnitTestProject\VTS.UnitTestProject.csproj", "{EC30596D-8F7E-4519-9CF9-2E4756F6D5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTS.GeminiGithubTestrailExtension", "..\..\..\GeminiExtension\VTS.GeminiGithubTestrailExtension.csproj", "{C243AF24-B6EB-4137-BC7E-27E4D10C0142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTS.WebApplication.InterationTest", "VTS.WebApplication.InterationTest\VTS.WebApplication.InterationTest.csproj", "{47C37410-3464-4200-BFE4-1EB6D3D88087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTS.WpfApplication.SetupNative", "VTS.WpfApplication.SetupNative\VTS.WpfApplication.SetupNative.csproj", "{F543C4F3-8AAB-4767-BCDD-2E755B13BAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeMessagingCaller", "NativeMessagingCaller\NativeMessagingCaller.csproj", "{BEC29499-B5BC-469C-9400-9822DE1EDBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EF8DC7-1460-4771-9870-0BBF5B5BD754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EF8DC7-1460-4771-9870-0BBF5B5BD754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EF8DC7-1460-4771-9870-0BBF5B5BD754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EF8DC7-1460-4771-9870-0BBF5B5BD754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC30596D-8F7E-4519-9CF9-2E4756F6D5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC30596D-8F7E-4519-9CF9-2E4756F6D5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC30596D-8F7E-4519-9CF9-2E4756F6D5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC30596D-8F7E-4519-9CF9-2E4756F6D5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C243AF24-B6EB-4137-BC7E-27E4D10C0142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C243AF24-B6EB-4137-BC7E-27E4D10C0142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C243AF24-B6EB-4137-BC7E-27E4D10C0142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C243AF24-B6EB-4137-BC7E-27E4D10C0142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C37410-3464-4200-BFE4-1EB6D3D88087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C37410-3464-4200-BFE4-1EB6D3D88087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C37410-3464-4200-BFE4-1EB6D3D88087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C37410-3464-4200-BFE4-1EB6D3D88087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F543C4F3-8AAB-4767-BCDD-2E755B13BAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F543C4F3-8AAB-4767-BCDD-2E755B13BAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F543C4F3-8AAB-4767-BCDD-2E755B13BAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F543C4F3-8AAB-4767-BCDD-2E755B13BAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC29499-B5BC-469C-9400-9822DE1EDBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC29499-B5BC-469C-9400-9822DE1EDBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC29499-B5BC-469C-9400-9822DE1EDBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC29499-B5BC-469C-9400-9822DE1EDBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C6EB88-C26C-416F-A090-D3CB4A1C2DB6}
+	EndGlobalSection
+EndGlobal

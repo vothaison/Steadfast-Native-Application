@@ -1,0 +1,20 @@
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\bin\Debug\manifest.json
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\bin\Debug\VTS.WpfApplication.SetupNative.exe.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\bin\Debug\VTS.WpfApplication.SetupNative.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\bin\Debug\VTS.WpfApplication.SetupNative.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\manifest.json
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.WpfApplication.SetupNative.exe.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.WpfApplication.SetupNative.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.WpfApplication.SetupNative.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\MainWindow.baml
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\MainWindow.g.cs
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\App.g.cs
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative_Content.g.cs
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative_MarkupCompile.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.g.resources
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.Properties.Resources.resources
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.csproj.GenerateResource.Cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.csproj.CoreCompileInputs.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.WpfApplication.SetupNative\obj\Debug\VTS.WpfApplication.SetupNative.csproj.CopyComplete

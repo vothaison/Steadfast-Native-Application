@@ -1,0 +1,12 @@
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\GeminiExtension\native-client\VTS.ChromeNativeMessaging.exe.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.ChromeNativeMessaging.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\manifest.json
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\log4net.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\obj\Debug\VTS.ChromeNativeMessaging.exe
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\obj\Debug\VTS.ChromeNativeMessaging.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.ChromeNativeMessaging.exe.config
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\VTS.ChromeNativeMessaging.pdb
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Steadfast Chrome Extension\native-client\log.txt
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\obj\Debug\VTS.ChromeNativeMessaging.csprojAssemblyReference.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\obj\Debug\VTS.ChromeNativeMessaging.csproj.CoreCompileInputs.cache
+C:\Users\S.VoT\Documents\Visual Studio 2013\Projects\Assembla\Chrome Extensions\NativeApplication\VTS.ChromeNativeMessaging\VTS.ChromeNativeMessaging\obj\Debug\VTS.ChromeNativeMessaging.csproj.CopyComplete
